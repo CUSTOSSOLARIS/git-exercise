@@ -1,2 +1,3 @@
 # git-exercise
-not sure if this is correct. 
+not sure if this is correct..it was. 
+ 
